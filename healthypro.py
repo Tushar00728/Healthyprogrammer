@@ -5,6 +5,7 @@
 # Physical activity - physical.mp3 every - 45 min - ExDone - log
 # Rules
 # Pygame module to play audio
+# Put music files in the same directory as the program 
 
 from pygame import mixer
 from datetime import datetime
